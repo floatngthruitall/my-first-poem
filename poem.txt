@@ -1,4 +1,4 @@
-A Beautiful Poem
+A Beautiful Poem And The Opposite Poem
 
 Roses are red
 Violets are blue
@@ -14,3 +14,8 @@ One last verse
 To write it is good
 To read it to another
 You know that you should.
+
+But what if roses weren't red
+If roses weren't blue
+That would be surpringly
+Did you truly think it through?
